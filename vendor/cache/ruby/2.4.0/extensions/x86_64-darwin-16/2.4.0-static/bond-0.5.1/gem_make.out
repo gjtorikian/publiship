@@ -1,0 +1,16 @@
+current directory: /Users/gjtorikian/Developer/publiship/vendor/cache/ruby/2.4.0/gems/bond-0.5.1/ext/readline_line_buffer
+/Users/gjtorikian/.rbenv/versions/2.4.0/bin/ruby -r ./siteconf20180125-20946-skqohe.rb extconf.rb 
+
+current directory: /Users/gjtorikian/Developer/publiship/vendor/cache/ruby/2.4.0/gems/bond-0.5.1/ext/readline_line_buffer
+make "DESTDIR=" clean
+make: *** No rule to make target `clean'.  Stop.
+
+current directory: /Users/gjtorikian/Developer/publiship/vendor/cache/ruby/2.4.0/gems/bond-0.5.1/ext/readline_line_buffer
+make "DESTDIR="
+echo "This is a dummy extension"
+This is a dummy extension
+
+current directory: /Users/gjtorikian/Developer/publiship/vendor/cache/ruby/2.4.0/gems/bond-0.5.1/ext/readline_line_buffer
+make "DESTDIR=" install
+echo "This is a dummy extension"
+This is a dummy extension

@@ -1,0 +1,21 @@
+current directory: /Users/gjtorikian/Developer/publiship/vendor/cache/ruby/2.4.0/gems/unicorn-4.9.0/ext/unicorn_http
+/Users/gjtorikian/.rbenv/versions/2.4.0/bin/ruby -r ./siteconf20180125-22392-7mmray.rb extconf.rb 
+checking for SIZEOF_OFF_T in ruby.h... yes
+checking for SIZEOF_SIZE_T in ruby.h... yes
+checking for SIZEOF_LONG in ruby.h... yes
+checking for rb_str_set_len() in ruby.h... yes
+checking for gmtime_r() in time.h... yes
+creating Makefile
+
+current directory: /Users/gjtorikian/Developer/publiship/vendor/cache/ruby/2.4.0/gems/unicorn-4.9.0/ext/unicorn_http
+make "DESTDIR=" clean
+
+current directory: /Users/gjtorikian/Developer/publiship/vendor/cache/ruby/2.4.0/gems/unicorn-4.9.0/ext/unicorn_http
+make "DESTDIR="
+compiling httpdate.c
+compiling unicorn_http.c
+linking shared-object unicorn_http.bundle
+
+current directory: /Users/gjtorikian/Developer/publiship/vendor/cache/ruby/2.4.0/gems/unicorn-4.9.0/ext/unicorn_http
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 unicorn_http.bundle ./.gem.20180125-22392-1235tla
